@@ -4,8 +4,10 @@
 
 ## **Topics:**
 <ol type="1">
-  <li>Exploratory Data Analysis;</li>
-  <li>Interactive Data Visualization;</li>
+  <li>How it works;</li>
+  <li>Objectives;</li>
+  <li>How to use;</li>
+  <li>Notes;</li>
 </ol>
 
 - **Script Code**:
