@@ -14,7 +14,7 @@
   - You can access the Script code here ([link](https://github.com/guimedina/HostScan/blob/main/HostScan.sh));
 
 ## **How it works:**
-  The script uses a `for` loop to iterate over all possible IP addresses in the specified range (by default, 192.168.1.0 to 192.168.1.254).
+  The script uses a `for` loop to iterate over all possible IP addresses in the specified range `(by default, 192.168.1.0 to 192.168.1.254)`.
   For each IP address, an ICMP ping packet is sent and the host is checked to see if it is up based on the response received. The IP addresses of active hosts are displayed on standard output.
   
 ## **Objectives:**
