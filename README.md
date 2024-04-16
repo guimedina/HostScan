@@ -23,7 +23,7 @@
 
   ## **How to use:**
   To use the script, simply run it in the terminal, passing the first octet of your network's IP address as an argument. For example, if your network is `192.168.1.X`, you can run the script as follows:
-  `./netscan.sh 192.168.1`
+  `./HostScan.sh 192.168.1`
   
   ## **Notes:**
   <ol type="1">
